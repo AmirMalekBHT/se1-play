@@ -20,4 +20,8 @@ module se1_play {
      */
     requires org.junit.jupiter.api;
     requires transitive runtimeSE;
+
+    opens optionals;
+    
+
 }
