@@ -66,3 +66,4 @@ temp/
 
 # ignore OSX hidden files (Mac)
 .DS_Store
+.devcontainer/
